@@ -13,4 +13,3 @@ Expectations of Stakeholders are:-
 
 These are some of the features stakeholders want from their Data Analyst. You have to add your own creative features as well.
 
-Dataset Link: https://drive.google.com/drive/folders/1lE3Z2NFN0zqXplKOfdrBPSHJvCaDO2RS?usp=sharing
